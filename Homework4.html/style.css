@@ -1,0 +1,29 @@
+.logo {
+    color: white;
+    background-color: #A52A2A;
+    text-align: center;
+}
+
+.picture {
+    text-align: center;
+
+}
+
+.car {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.finall {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.car_img {
+    border: 3px dotted;
+}
